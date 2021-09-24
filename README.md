@@ -1,7 +1,10 @@
 # Horiseon
 
 ## Purpose
-A website that offers Social media marketing handles . 
+A website that offers Social media marketing to increase your visibility and find the right customers for your business. 
+
+## Images
+<img: ./images/screenshot1 >
 
 ## Built With
 * HTML
