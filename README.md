@@ -4,7 +4,7 @@
 A website that offers Social media marketing to increase your visibility and find the right customers for your business. 
 
 ## Images
-<img: ./images/screenshot1 >
+<img: href="./assets/images/Screenshot1.jpg" >
 
 ## Built With
 * HTML
