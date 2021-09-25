@@ -4,7 +4,7 @@
 A website that offers Social media marketing to increase your visibility and find the right customers for your business. 
 
 ## Images
-![alt text](https://frankshock.github.io/Refactor/assets/
+![alt text](https://frankshock.github.io/Refactor/assets/images/Screenshot1.JPG)
 
 ## Built With
 * HTML
